@@ -7,4 +7,4 @@ I can remember me having all kind of issues understanding the course but all i n
 again and then i would find the solution, all you need to solve the problems are there for you in course it self.\
 If you cant find the solution i Highly recommend you to check the YouTube and Google.\
 In the end i have to say if your a starter; the CS50 is like a bliss for you it's the best start possible for you.\
-If you really understand this course, you can learn any programming language after it.\
+If you really understand this course, you can learn any programming language after it.
