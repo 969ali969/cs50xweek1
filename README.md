@@ -1,6 +1,6 @@
 # CS50xweek1
 Hi my name is ali and im graduated from cs50xharvard (Introduction to computer science)\
-Please consider that all the content are for education purposes only.\
+Please consider that all the contents are for education purposes only.\
 I want you to know that im putting my own certificate in dangerous by giving the answers but in the end its only the humanity that matters to me.\
 Please use the content only for better understanding (DO NOT TRY TO COPY AND PASTE THE CODES IT A HUGE MISTAKE!!)\
 I can remember me having all kind of issues understanding the course but all i need to do every single time was watching the video for that specific week\
