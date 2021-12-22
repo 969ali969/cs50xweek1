@@ -1,5 +1,5 @@
 # CS50xweek1
-hi my name is ali and im graduated from cs50xharvard (Introduction to computer science)\
+Hi my name is ali and im graduated from cs50xharvard (Introduction to computer science)\
 Please consider that all the content are for education purposes only.\
 I want you to know that im putting my own certificate in dangerous by giving the answers but in the end its only the humanity that matters to me.\
 Please use the content only for better understanding (DO NOT TRY TO COPY AND PASTE THE CODES IT A HUGE MISTAKE!!)\
