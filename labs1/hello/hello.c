@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-//say Hello to the guy
+//say Hello to the guy and be Nice
 
 int main(void)
 {
